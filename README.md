@@ -4,7 +4,7 @@
 
 ---
 
-# Self-Study PhD in Mathematics
+# Self-Study in Pure Mathematics
 
 ## About Me
 

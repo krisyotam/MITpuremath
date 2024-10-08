@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor’s Degree in Mathematics at Indiana Universi
 
 ## Project Overview
 
-This repository is dedicated to my self-directed PhD studies in Mathematics using MIT OpenCourseWare. While I will continue my traditional education, this repository serves as a supplement to the courses offered by MIT. 
+This repository is dedicated to self learning Mathematics using [OSSU Mathematics Curriculum](https://github.com/ossu/math), which utilizes MIT OpenCourseWare. While I will continue my traditional education, this repository serves as a supplement to my education.
 
 ## Goals
 

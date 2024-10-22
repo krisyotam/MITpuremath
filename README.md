@@ -4,7 +4,7 @@
 
 ---
 
-# Self-Study in Pure Mathematics
+# Pure Mathematics Study
 
 ## About Me
 

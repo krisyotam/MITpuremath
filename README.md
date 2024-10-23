@@ -4,7 +4,7 @@
 
 ---
 
-# Pure Mathematics Study
+# Pure Mathematics
 
 ## About Me
 
